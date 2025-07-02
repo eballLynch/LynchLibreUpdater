@@ -1,5 +1,5 @@
 # Lynch LibreOffice Online Update XCD Replacement Script
-This document provides instructions for using the replace_libreoffice_xcd.cmd batch script.
+This document provides instructions for using the autoUpdaterv2.bat batch script.
 
 1. What This Script Does
 This script automates the process of replacing the onlineupdate.xcd configuration file in your LibreOffice installation directory. This file is part of LibreOffice's internal registry and can be used to configure various settings, including update-related behaviors.
